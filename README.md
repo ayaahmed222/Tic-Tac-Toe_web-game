@@ -11,10 +11,10 @@ A simple and interactive X-O (Tic-Tac-Toe) web game where two players can challe
 
 
 ## Live Demo
-[Click here to view website]()
+[Click here to view website](https://github.com/ayaahmed222/Tic-Tac-Toe_web-game/)
 
-## Screenshots
-![screenshot](./review.png)
+## Review
+![review](./review.png)
 
 ## Technologies Used
 - HTML5
